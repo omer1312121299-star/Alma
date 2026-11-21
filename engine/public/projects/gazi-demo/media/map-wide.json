@@ -1,0 +1,38 @@
+{
+ "width": 2000,
+ "height": 3533,
+ "source": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/34/S/GH/2025/7/S2A_34SGH_20250725_0_L2A/TCI.tif",
+ "attribution": "Contains modified Copernicus Sentinel data 2025",
+ "places": [
+  {
+   "name": "גזי בולווארד",
+   "x": 0.4226,
+   "y": 0.7587
+  },
+  {
+   "name": "טכנופוליס",
+   "x": 0.4356,
+   "y": 0.7555
+  },
+  {
+   "name": "מטרו קרמיקוס",
+   "x": 0.4298,
+   "y": 0.7558
+  },
+  {
+   "name": "מונסטיראקי",
+   "x": 0.4714,
+   "y": 0.7604
+  },
+  {
+   "name": "האקרופוליס",
+   "x": 0.4751,
+   "y": 0.7697
+  },
+  {
+   "name": "אתונה",
+   "x": 0.4761,
+   "y": 0.7439
+  }
+ ]
+}

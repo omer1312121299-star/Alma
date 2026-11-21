@@ -1,0 +1,828 @@
+[
+ {
+  "text": "טסתי",
+  "startMs": 0,
+  "endMs": 540,
+  "timestampMs": 270,
+  "confidence": 0.999
+ },
+ {
+  "text": "לאתונה",
+  "startMs": 540,
+  "endMs": 920,
+  "timestampMs": 730,
+  "confidence": 0.999
+ },
+ {
+  "text": "לבדוק",
+  "startMs": 920,
+  "endMs": 1240,
+  "timestampMs": 1080,
+  "confidence": 1.0
+ },
+ {
+  "text": "פרויקט",
+  "startMs": 1240,
+  "endMs": 1800,
+  "timestampMs": 1520,
+  "confidence": 0.999
+ },
+ {
+  "text": "וחזרתי",
+  "startMs": 1800,
+  "endMs": 3060,
+  "timestampMs": 2430,
+  "confidence": 0.878
+ },
+ {
+  "text": "עם",
+  "startMs": 3060,
+  "endMs": 3160,
+  "timestampMs": 3110,
+  "confidence": 0.999
+ },
+ {
+  "text": "דירה.",
+  "startMs": 3160,
+  "endMs": 3540,
+  "timestampMs": 3350,
+  "confidence": 0.998
+ },
+ {
+  "text": "אוכל",
+  "startMs": 4080,
+  "endMs": 4480,
+  "timestampMs": 4280,
+  "confidence": 1.0
+ },
+ {
+  "text": "מטורף,",
+  "startMs": 4480,
+  "endMs": 5060,
+  "timestampMs": 4770,
+  "confidence": 1.0
+ },
+ {
+  "text": "מוזיקה",
+  "startMs": 5200,
+  "endMs": 5660,
+  "timestampMs": 5430,
+  "confidence": 1.0
+ },
+ {
+  "text": "יוונית",
+  "startMs": 5660,
+  "endMs": 6120,
+  "timestampMs": 5890,
+  "confidence": 0.999
+ },
+ {
+  "text": "חיה",
+  "startMs": 6120,
+  "endMs": 6660,
+  "timestampMs": 6390,
+  "confidence": 0.907
+ },
+ {
+  "text": "ואווירה",
+  "startMs": 6660,
+  "endMs": 7480,
+  "timestampMs": 7070,
+  "confidence": 0.984
+ },
+ {
+  "text": "בכל",
+  "startMs": 7480,
+  "endMs": 7880,
+  "timestampMs": 7680,
+  "confidence": 0.999
+ },
+ {
+  "text": "כיכר.",
+  "startMs": 7880,
+  "endMs": 8340,
+  "timestampMs": 8110,
+  "confidence": 1.0
+ },
+ {
+  "text": "ובלב",
+  "startMs": 8560,
+  "endMs": 9360,
+  "timestampMs": 8960,
+  "confidence": 0.999
+ },
+ {
+  "text": "גזי,",
+  "startMs": 9360,
+  "endMs": 9760,
+  "timestampMs": 9560,
+  "confidence": 0.965
+ },
+ {
+  "text": "שכונת",
+  "startMs": 10440,
+  "endMs": 10840,
+  "timestampMs": 10640,
+  "confidence": 1.0
+ },
+ {
+  "text": "הבילוי",
+  "startMs": 10840,
+  "endMs": 11180,
+  "timestampMs": 11010,
+  "confidence": 0.997
+ },
+ {
+  "text": "של",
+  "startMs": 11180,
+  "endMs": 11320,
+  "timestampMs": 11250,
+  "confidence": 1.0
+ },
+ {
+  "text": "אתונה,",
+  "startMs": 11320,
+  "endMs": 11720,
+  "timestampMs": 11520,
+  "confidence": 0.999
+ },
+ {
+  "text": "והכל",
+  "startMs": 12460,
+  "endMs": 12880,
+  "timestampMs": 12670,
+  "confidence": 0.78
+ },
+ {
+  "text": "במרחק",
+  "startMs": 12880,
+  "endMs": 13440,
+  "timestampMs": 13160,
+  "confidence": 0.997
+ },
+ {
+  "text": "הליכה.",
+  "startMs": 13440,
+  "endMs": 13820,
+  "timestampMs": 13630,
+  "confidence": 0.997
+ },
+ {
+  "text": "שלוש",
+  "startMs": 14320,
+  "endMs": 14840,
+  "timestampMs": 14580,
+  "confidence": 0.928
+ },
+ {
+  "text": "דקות",
+  "startMs": 14840,
+  "endMs": 15140,
+  "timestampMs": 14990,
+  "confidence": 1.0
+ },
+ {
+  "text": "לטכנופוליס,",
+  "startMs": 15140,
+  "endMs": 15880,
+  "timestampMs": 15510,
+  "confidence": 1.0
+ },
+ {
+  "text": "עם",
+  "startMs": 16040,
+  "endMs": 16320,
+  "timestampMs": 16180,
+  "confidence": 1.0
+ },
+ {
+  "text": "שוק",
+  "startMs": 16320,
+  "endMs": 16540,
+  "timestampMs": 16430,
+  "confidence": 1.0
+ },
+ {
+  "text": "הקריסמס,",
+  "startMs": 16540,
+  "endMs": 17200,
+  "timestampMs": 16870,
+  "confidence": 0.933
+ },
+ {
+  "text": "חיי",
+  "startMs": 17340,
+  "endMs": 17660,
+  "timestampMs": 17500,
+  "confidence": 1.0
+ },
+ {
+  "text": "לילה",
+  "startMs": 17660,
+  "endMs": 18080,
+  "timestampMs": 17870,
+  "confidence": 1.0
+ },
+ {
+  "text": "ופסטיבלים.",
+  "startMs": 18080,
+  "endMs": 18780,
+  "timestampMs": 18430,
+  "confidence": 0.999
+ },
+ {
+  "text": "רבע",
+  "startMs": 19400,
+  "endMs": 19800,
+  "timestampMs": 19600,
+  "confidence": 1.0
+ },
+ {
+  "text": "שעה",
+  "startMs": 19800,
+  "endMs": 20120,
+  "timestampMs": 19960,
+  "confidence": 1.0
+ },
+ {
+  "text": "למונסטיראקי,",
+  "startMs": 20120,
+  "endMs": 20980,
+  "timestampMs": 20550,
+  "confidence": 0.964
+ },
+ {
+  "text": "פחות",
+  "startMs": 21320,
+  "endMs": 22040,
+  "timestampMs": 21680,
+  "confidence": 1.0
+ },
+ {
+  "text": "מ-20",
+  "startMs": 22040,
+  "endMs": 22420,
+  "timestampMs": 22120,
+  "confidence": 0.978
+ },
+ {
+  "text": "דקות",
+  "startMs": 22420,
+  "endMs": 22780,
+  "timestampMs": 22600,
+  "confidence": 1.0
+ },
+ {
+  "text": "לאקרופוליס,",
+  "startMs": 22780,
+  "endMs": 23520,
+  "timestampMs": 23150,
+  "confidence": 0.999
+ },
+ {
+  "text": "ודקה",
+  "startMs": 23840,
+  "endMs": 24760,
+  "timestampMs": 24300,
+  "confidence": 0.999
+ },
+ {
+  "text": "אחת",
+  "startMs": 24760,
+  "endMs": 25000,
+  "timestampMs": 24880,
+  "confidence": 1.0
+ },
+ {
+  "text": "למטרו.",
+  "startMs": 25000,
+  "endMs": 25480,
+  "timestampMs": 25240,
+  "confidence": 0.998
+ },
+ {
+  "text": "בונים",
+  "startMs": 25880,
+  "endMs": 26460,
+  "timestampMs": 26170,
+  "confidence": 1.0
+ },
+ {
+  "text": "את",
+  "startMs": 26460,
+  "endMs": 26620,
+  "timestampMs": 26540,
+  "confidence": 1.0
+ },
+ {
+  "text": "גזי",
+  "startMs": 26620,
+  "endMs": 26940,
+  "timestampMs": 26780,
+  "confidence": 0.999
+ },
+ {
+  "text": "בולווארד.",
+  "startMs": 26940,
+  "endMs": 27480,
+  "timestampMs": 27210,
+  "confidence": 0.909
+ },
+ {
+  "text": "בניין",
+  "startMs": 27860,
+  "endMs": 28600,
+  "timestampMs": 28230,
+  "confidence": 0.998
+ },
+ {
+  "text": "חדש",
+  "startMs": 28600,
+  "endMs": 28980,
+  "timestampMs": 28790,
+  "confidence": 1.0
+ },
+ {
+  "text": "מהיסודות,",
+  "startMs": 28980,
+  "endMs": 29740,
+  "timestampMs": 29360,
+  "confidence": 0.999
+ },
+ {
+  "text": "עם",
+  "startMs": 30540,
+  "endMs": 31340,
+  "timestampMs": 30940,
+  "confidence": 0.995
+ },
+ {
+  "text": "בריכה",
+  "startMs": 31340,
+  "endMs": 31740,
+  "timestampMs": 31540,
+  "confidence": 0.999
+ },
+ {
+  "text": "על",
+  "startMs": 31740,
+  "endMs": 31880,
+  "timestampMs": 31810,
+  "confidence": 0.999
+ },
+ {
+  "text": "הגג",
+  "startMs": 31880,
+  "endMs": 32300,
+  "timestampMs": 32090,
+  "confidence": 0.999
+ },
+ {
+  "text": "מול",
+  "startMs": 32300,
+  "endMs": 32840,
+  "timestampMs": 32570,
+  "confidence": 0.834
+ },
+ {
+  "text": "האקרופוליס.",
+  "startMs": 32840,
+  "endMs": 33520,
+  "timestampMs": 33180,
+  "confidence": 0.999
+ },
+ {
+  "text": "חברת",
+  "startMs": 34280,
+  "endMs": 34680,
+  "timestampMs": 34480,
+  "confidence": 1.0
+ },
+ {
+  "text": "ניהול",
+  "startMs": 34680,
+  "endMs": 34980,
+  "timestampMs": 34830,
+  "confidence": 0.991
+ },
+ {
+  "text": "ותפעול",
+  "startMs": 34980,
+  "endMs": 35600,
+  "timestampMs": 35290,
+  "confidence": 0.999
+ },
+ {
+  "text": "סוכרת",
+  "startMs": 35600,
+  "endMs": 36180,
+  "timestampMs": 35890,
+  "confidence": 0.841
+ },
+ {
+  "text": "את",
+  "startMs": 36180,
+  "endMs": 36340,
+  "timestampMs": 36260,
+  "confidence": 1.0
+ },
+ {
+  "text": "כל",
+  "startMs": 36340,
+  "endMs": 36480,
+  "timestampMs": 36410,
+  "confidence": 1.0
+ },
+ {
+  "text": "הבניין.",
+  "startMs": 36480,
+  "endMs": 36960,
+  "timestampMs": 36720,
+  "confidence": 1.0
+ },
+ {
+  "text": "8%",
+  "startMs": 37380,
+  "endMs": 38360,
+  "timestampMs": 37670,
+  "confidence": 0.891
+ },
+ {
+  "text": "תשואה",
+  "startMs": 38360,
+  "endMs": 38820,
+  "timestampMs": 38590,
+  "confidence": 0.999
+ },
+ {
+  "text": "בשנה",
+  "startMs": 38820,
+  "endMs": 39280,
+  "timestampMs": 39050,
+  "confidence": 1.0
+ },
+ {
+  "text": "לחמש",
+  "startMs": 39280,
+  "endMs": 40060,
+  "timestampMs": 39670,
+  "confidence": 0.876
+ },
+ {
+  "text": "שנים.",
+  "startMs": 40060,
+  "endMs": 40480,
+  "timestampMs": 40270,
+  "confidence": 1.0
+ },
+ {
+  "text": "וזו",
+  "startMs": 40740,
+  "endMs": 41320,
+  "timestampMs": 41030,
+  "confidence": 0.998
+ },
+ {
+  "text": "שכירות",
+  "startMs": 41320,
+  "endMs": 41740,
+  "timestampMs": 41530,
+  "confidence": 0.994
+ },
+ {
+  "text": "אמיתית,",
+  "startMs": 41740,
+  "endMs": 42220,
+  "timestampMs": 41980,
+  "confidence": 1.0
+ },
+ {
+  "text": "לא",
+  "startMs": 42240,
+  "endMs": 42580,
+  "timestampMs": 42410,
+  "confidence": 1.0
+ },
+ {
+  "text": "תוכנית",
+  "startMs": 42580,
+  "endMs": 42920,
+  "timestampMs": 42750,
+  "confidence": 0.998
+ },
+ {
+  "text": "עסקית.",
+  "startMs": 42920,
+  "endMs": 43280,
+  "timestampMs": 43100,
+  "confidence": 1.0
+ },
+ {
+  "text": "ומקבלים",
+  "startMs": 43980,
+  "endMs": 44780,
+  "timestampMs": 44380,
+  "confidence": 0.999
+ },
+ {
+  "text": "גם",
+  "startMs": 44780,
+  "endMs": 44940,
+  "timestampMs": 44860,
+  "confidence": 1.0
+ },
+ {
+  "text": "שבוע",
+  "startMs": 44940,
+  "endMs": 45340,
+  "timestampMs": 45140,
+  "confidence": 1.0
+ },
+ {
+  "text": "חופשה",
+  "startMs": 45340,
+  "endMs": 45680,
+  "timestampMs": 45510,
+  "confidence": 0.999
+ },
+ {
+  "text": "בשנה,",
+  "startMs": 45680,
+  "endMs": 46120,
+  "timestampMs": 45900,
+  "confidence": 1.0
+ },
+ {
+  "text": "והדירה",
+  "startMs": 46300,
+  "endMs": 47020,
+  "timestampMs": 46660,
+  "confidence": 1.0
+ },
+ {
+  "text": "שלכם",
+  "startMs": 47020,
+  "endMs": 47380,
+  "timestampMs": 47200,
+  "confidence": 0.999
+ },
+ {
+  "text": "רשומה",
+  "startMs": 47380,
+  "endMs": 47760,
+  "timestampMs": 47570,
+  "confidence": 1.0
+ },
+ {
+  "text": "כדירה",
+  "startMs": 47760,
+  "endMs": 48120,
+  "timestampMs": 47940,
+  "confidence": 0.999
+ },
+ {
+  "text": "בטאבו.",
+  "startMs": 48120,
+  "endMs": 48520,
+  "timestampMs": 48320,
+  "confidence": 0.999
+ },
+ {
+  "text": "ואני",
+  "startMs": 48980,
+  "endMs": 49780,
+  "timestampMs": 49380,
+  "confidence": 1.0
+ },
+ {
+  "text": "קניתי",
+  "startMs": 49780,
+  "endMs": 50440,
+  "timestampMs": 50110,
+  "confidence": 0.819
+ },
+ {
+  "text": "שם",
+  "startMs": 50440,
+  "endMs": 50640,
+  "timestampMs": 50540,
+  "confidence": 1.0
+ },
+ {
+  "text": "דירה.",
+  "startMs": 50640,
+  "endMs": 51000,
+  "timestampMs": 50820,
+  "confidence": 1.0
+ },
+ {
+  "text": "כי",
+  "startMs": 51260,
+  "endMs": 51660,
+  "timestampMs": 51460,
+  "confidence": 0.997
+ },
+ {
+  "text": "דירה",
+  "startMs": 51660,
+  "endMs": 51920,
+  "timestampMs": 51790,
+  "confidence": 1.0
+ },
+ {
+  "text": "חדשה",
+  "startMs": 51920,
+  "endMs": 52280,
+  "timestampMs": 52100,
+  "confidence": 1.0
+ },
+ {
+  "text": "במרכז",
+  "startMs": 52280,
+  "endMs": 52760,
+  "timestampMs": 52520,
+  "confidence": 1.0
+ },
+ {
+  "text": "העיר,",
+  "startMs": 52760,
+  "endMs": 53120,
+  "timestampMs": 52940,
+  "confidence": 1.0
+ },
+ {
+  "text": "שעולה",
+  "startMs": 53220,
+  "endMs": 53740,
+  "timestampMs": 53480,
+  "confidence": 1.0
+ },
+ {
+  "text": "פחות",
+  "startMs": 53740,
+  "endMs": 54140,
+  "timestampMs": 53940,
+  "confidence": 1.0
+ },
+ {
+  "text": "מדירות",
+  "startMs": 54140,
+  "endMs": 54520,
+  "timestampMs": 54330,
+  "confidence": 1.0
+ },
+ {
+  "text": "משופצות",
+  "startMs": 54520,
+  "endMs": 55060,
+  "timestampMs": 54790,
+  "confidence": 1.0
+ },
+ {
+  "text": "באתונה,",
+  "startMs": 55060,
+  "endMs": 55560,
+  "timestampMs": 55310,
+  "confidence": 0.999
+ },
+ {
+  "text": "זאת",
+  "startMs": 55740,
+  "endMs": 56200,
+  "timestampMs": 55970,
+  "confidence": 0.998
+ },
+ {
+  "text": "מציאה",
+  "startMs": 56200,
+  "endMs": 56600,
+  "timestampMs": 56400,
+  "confidence": 0.999
+ },
+ {
+  "text": "אמיתית.",
+  "startMs": 56600,
+  "endMs": 57120,
+  "timestampMs": 56860,
+  "confidence": 1.0
+ },
+ {
+  "text": "יותר",
+  "startMs": 57520,
+  "endMs": 57960,
+  "timestampMs": 57740,
+  "confidence": 0.999
+ },
+ {
+  "text": "ממחצית",
+  "startMs": 57960,
+  "endMs": 58520,
+  "timestampMs": 58240,
+  "confidence": 1.0
+ },
+ {
+  "text": "הדירות",
+  "startMs": 58520,
+  "endMs": 58880,
+  "timestampMs": 58700,
+  "confidence": 1.0
+ },
+ {
+  "text": "כבר",
+  "startMs": 58880,
+  "endMs": 59080,
+  "timestampMs": 58980,
+  "confidence": 1.0
+ },
+ {
+  "text": "נמכרו.",
+  "startMs": 59080,
+  "endMs": 59520,
+  "timestampMs": 59300,
+  "confidence": 1.0
+ },
+ {
+  "text": "וכמה",
+  "startMs": 60000,
+  "endMs": 60500,
+  "timestampMs": 60250,
+  "confidence": 0.999
+ },
+ {
+  "text": "הון",
+  "startMs": 60500,
+  "endMs": 60640,
+  "timestampMs": 60570,
+  "confidence": 0.998
+ },
+ {
+  "text": "עצמי",
+  "startMs": 60640,
+  "endMs": 60940,
+  "timestampMs": 60790,
+  "confidence": 0.998
+ },
+ {
+  "text": "צריך?",
+  "startMs": 60940,
+  "endMs": 61420,
+  "timestampMs": 61180,
+  "confidence": 1.0
+ },
+ {
+  "text": "150,000",
+  "startMs": 61520,
+  "endMs": 62540,
+  "timestampMs": 61750,
+  "confidence": 0.996
+ },
+ {
+  "text": "שקל.",
+  "startMs": 62540,
+  "endMs": 62960,
+  "timestampMs": 62750,
+  "confidence": 1.0
+ },
+ {
+  "text": "רוצים",
+  "startMs": 63180,
+  "endMs": 63780,
+  "timestampMs": 63480,
+  "confidence": 0.999
+ },
+ {
+  "text": "פרטים?",
+  "startMs": 63780,
+  "endMs": 64220,
+  "timestampMs": 64000,
+  "confidence": 1.0
+ },
+ {
+  "text": "כתבו",
+  "startMs": 64420,
+  "endMs": 64860,
+  "timestampMs": 64640,
+  "confidence": 0.997
+ },
+ {
+  "text": "לי",
+  "startMs": 64860,
+  "endMs": 64960,
+  "timestampMs": 64910,
+  "confidence": 1.0
+ },
+ {
+  "text": "אתונה",
+  "startMs": 64960,
+  "endMs": 65240,
+  "timestampMs": 65100,
+  "confidence": 0.986
+ },
+ {
+  "text": "בתגובות.",
+  "startMs": 65240,
+  "endMs": 65820,
+  "timestampMs": 65530,
+  "confidence": 1.0
+ }
+]

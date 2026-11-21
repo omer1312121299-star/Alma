@@ -1,0 +1,785 @@
+{
+ "meta": {
+  "title": "Gazi Boulevard — demo recreation",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 68.4
+ },
+ "audio": {
+  "voice": "projects/gazi-demo/audio/original-mix.m4a",
+  "voiceVolume": 1.0,
+  "sfx": true,
+  "sfxVolume": 0.22
+ },
+ "captions": {
+  "src": "projects/gazi-demo/captions.json",
+  "maxWords": 2,
+  "y": 0.79,
+  "fixes": {
+   "סוכרת": "שוכרת",
+   "דירה.": "דירה!",
+   "האקרופוליס.": "האקרופוליס!"
+  },
+  "highlight": [
+   "פרויקט",
+   "דירה",
+   "מטורף",
+   "יוונית",
+   "חיה",
+   "גזי",
+   "הבילוי",
+   "במרחק",
+   "דקות",
+   "לטכנופוליס",
+   "הקריסמס",
+   "ופסטיבלים",
+   "שעה",
+   "למונסטיראקי",
+   "לאקרופוליס",
+   "אחת",
+   "בולווארד",
+   "חדש",
+   "בריכה",
+   "האקרופוליס",
+   "הבניין",
+   "קניתי",
+   "חדשה",
+   "פחות",
+   "משופצות",
+   "מציאה",
+   "ממחצית",
+   "נמכרו"
+  ],
+  "hide": [
+   [
+    0,
+    0.9
+   ],
+   [
+    37.3,
+    48.95
+   ],
+   [
+    59.95,
+    68.4
+   ]
+  ]
+ },
+ "scenes": [
+  {
+   "from": 0,
+   "to": 1.85,
+   "type": "map",
+   "src": "projects/gazi-demo/media/map-wide.jpg",
+   "width": 2000,
+   "height": 3533,
+   "grade": "none",
+   "camera": [
+    {
+     "t": 0,
+     "x": 0.5,
+     "y": 0.6,
+     "zoom": 1.0
+    },
+    {
+     "t": 1.85,
+     "x": 0.4761,
+     "y": 0.7439,
+     "zoom": 3.6
+    }
+   ],
+   "title": {
+    "text": "טסתי לאתונה",
+    "at": 0.0,
+    "to": 1.75
+   }
+  },
+  {
+   "from": 1.85,
+   "to": 4.05,
+   "type": "media",
+   "src": "projects/gazi-demo/media/taverna.jpg",
+   "transition": "glitch",
+   "move": "in"
+  },
+  {
+   "from": 4.05,
+   "to": 5.15,
+   "type": "polaroid",
+   "src": "projects/gazi-demo/media/food.jpg",
+   "transition": "cut",
+   "rotate": -5
+  },
+  {
+   "from": 5.15,
+   "to": 6.62,
+   "type": "media",
+   "src": "projects/gazi-demo/media/bouzouki.jpg",
+   "transition": "glitch",
+   "move": "left"
+  },
+  {
+   "from": 6.62,
+   "to": 8.5,
+   "type": "media",
+   "src": "projects/gazi-demo/media/street.jpg",
+   "transition": "zoom",
+   "move": "in",
+   "grade": "warm"
+  },
+  {
+   "from": 8.5,
+   "to": 15.95,
+   "type": "map",
+   "src": "projects/gazi-demo/media/map-close.jpg",
+   "width": 1104,
+   "height": 1968,
+   "transition": "glitch",
+   "grade": "none",
+   "camera": [
+    {
+     "t": 0,
+     "x": 0.45,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    {
+     "t": 1.0,
+     "x": 0.4,
+     "y": 0.47,
+     "zoom": 1.7
+    },
+    {
+     "t": 3.8,
+     "x": 0.4,
+     "y": 0.47,
+     "zoom": 1.8
+    },
+    {
+     "t": 4.8,
+     "x": 0.52,
+     "y": 0.5,
+     "zoom": 1.35
+    },
+    {
+     "t": 5.8,
+     "x": 0.52,
+     "y": 0.5,
+     "zoom": 1.38
+    },
+    {
+     "t": 6.6,
+     "x": 0.42,
+     "y": 0.47,
+     "zoom": 2.0
+    }
+   ],
+   "pins": [
+    {
+     "name": "גזי",
+     "x": 0.405,
+     "y": 0.455,
+     "at": 9.36,
+     "until": 12.3
+    },
+    {
+     "name": "מטרו קרמיקוס",
+     "x": 0.3932,
+     "y": 0.4679,
+     "at": 12.5,
+     "sub": "דקה הליכה",
+     "icon": "metro",
+     "offset": [
+      -40,
+      -30
+     ]
+    },
+    {
+     "name": "טכנופוליס",
+     "x": 0.4313,
+     "y": 0.4659,
+     "at": 12.62,
+     "sub": "3 דק' הליכה",
+     "offset": [
+      170,
+      120
+     ],
+     "activeFrom": 14.84
+    },
+    {
+     "name": "Gazi Boulevard",
+     "latin": true,
+     "x": 0.3464,
+     "y": 0.4863,
+     "at": 12.74,
+     "offset": [
+      -60,
+      130
+     ]
+    },
+    {
+     "name": "מונסטיראקי",
+     "x": 0.6642,
+     "y": 0.4973,
+     "at": 12.86,
+     "sub": "15 דק' הליכה"
+    },
+    {
+     "name": "האקרופוליס",
+     "x": 0.6884,
+     "y": 0.5579,
+     "at": 12.98,
+     "sub": "18 דק' הליכה"
+    }
+   ],
+   "route": [
+    {
+     "from": "Gazi Boulevard",
+     "to": "טכנופוליס",
+     "at": 14.9,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "from": 15.95,
+   "to": 17.32,
+   "type": "media",
+   "src": "projects/gazi-demo/media/xmas.jpg",
+   "transition": "glitch",
+   "move": "up",
+   "grade": "night"
+  },
+  {
+   "from": 17.32,
+   "to": 19.35,
+   "type": "media",
+   "src": "projects/gazi-demo/media/athens-dusk.jpg",
+   "transition": "zoom",
+   "move": "right",
+   "grade": "night"
+  },
+  {
+   "from": 19.35,
+   "to": 21.25,
+   "type": "media",
+   "src": "projects/gazi-demo/media/monastiraki.jpg",
+   "transition": "glitch",
+   "move": "in"
+  },
+  {
+   "from": 21.25,
+   "to": 22.9,
+   "type": "map",
+   "src": "projects/gazi-demo/media/map-close.jpg",
+   "width": 1104,
+   "height": 1968,
+   "transition": "blur",
+   "grade": "none",
+   "camera": [
+    {
+     "t": 0,
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.3
+    },
+    {
+     "t": 1.6,
+     "x": 0.6,
+     "y": 0.53,
+     "zoom": 1.7
+    }
+   ],
+   "pins": [
+    {
+     "name": "מטרו קרמיקוס",
+     "x": 0.3932,
+     "y": 0.4679,
+     "at": 21.0,
+     "sub": "דקה הליכה",
+     "icon": "metro",
+     "offset": [
+      -40,
+      -30
+     ]
+    },
+    {
+     "name": "טכנופוליס",
+     "x": 0.4313,
+     "y": 0.4659,
+     "at": 21.12,
+     "sub": "3 דק' הליכה",
+     "offset": [
+      170,
+      120
+     ]
+    },
+    {
+     "name": "Gazi Boulevard",
+     "latin": true,
+     "x": 0.3464,
+     "y": 0.4863,
+     "at": 21.24,
+     "offset": [
+      -60,
+      130
+     ]
+    },
+    {
+     "name": "מונסטיראקי",
+     "x": 0.6642,
+     "y": 0.4973,
+     "at": 21.36,
+     "sub": "15 דק' הליכה"
+    },
+    {
+     "name": "האקרופוליס",
+     "x": 0.6884,
+     "y": 0.5579,
+     "at": 21.48,
+     "sub": "18 דק' הליכה",
+     "activeFrom": 22.4
+    }
+   ],
+   "route": [
+    {
+     "from": "Gazi Boulevard",
+     "to": "האקרופוליס",
+     "at": 21.6,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "from": 22.9,
+   "to": 23.85,
+   "type": "media",
+   "src": "projects/gazi-demo/media/acropolis.jpg",
+   "transition": "zoom",
+   "move": "up"
+  },
+  {
+   "from": 23.85,
+   "to": 27.8,
+   "type": "map",
+   "src": "projects/gazi-demo/media/map-close.jpg",
+   "width": 1104,
+   "height": 1968,
+   "transition": "glitch",
+   "grade": "none",
+   "camera": [
+    {
+     "t": 0,
+     "x": 0.42,
+     "y": 0.48,
+     "zoom": 1.6
+    },
+    {
+     "t": 1.2,
+     "x": 0.38,
+     "y": 0.475,
+     "zoom": 2.4
+    },
+    {
+     "t": 2.2,
+     "x": 0.36,
+     "y": 0.48,
+     "zoom": 2.4
+    },
+    {
+     "t": 3.9,
+     "x": 0.35,
+     "y": 0.485,
+     "zoom": 2.9
+    }
+   ],
+   "pins": [
+    {
+     "name": "מטרו קרמיקוס",
+     "x": 0.3932,
+     "y": 0.4679,
+     "at": 23.6,
+     "sub": "דקה הליכה",
+     "icon": "metro",
+     "offset": [
+      -40,
+      -30
+     ],
+     "activeFrom": 24.76,
+     "activeTo": 25.9
+    },
+    {
+     "name": "טכנופוליס",
+     "x": 0.4313,
+     "y": 0.4659,
+     "at": 23.6,
+     "sub": "3 דק' הליכה",
+     "offset": [
+      170,
+      120
+     ]
+    },
+    {
+     "name": "Gazi Boulevard",
+     "latin": true,
+     "x": 0.3464,
+     "y": 0.4863,
+     "at": 23.6,
+     "offset": [
+      -60,
+      130
+     ],
+     "activeFrom": 26.62
+    }
+   ],
+   "route": [
+    {
+     "from": "Gazi Boulevard",
+     "to": "מטרו קרמיקוס",
+     "at": 24.8,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "from": 27.8,
+   "to": 29.75,
+   "type": "media",
+   "src": "projects/gazi-demo/media/construction.jpg",
+   "transition": "glitch",
+   "move": "up"
+  },
+  {
+   "from": 29.75,
+   "to": 30.5,
+   "type": "media",
+   "src": "projects/gazi-demo/media/building.jpg",
+   "transition": "flash",
+   "move": "in",
+   "badge": "הדמיה"
+  },
+  {
+   "from": 30.5,
+   "to": 32.3,
+   "type": "media",
+   "src": "projects/gazi-demo/media/pool.jpg",
+   "transition": "whip",
+   "move": "down",
+   "badge": "הדמיה"
+  },
+  {
+   "from": 32.3,
+   "to": 34.25,
+   "type": "media",
+   "src": "projects/gazi-demo/media/acropolis.jpg",
+   "transition": "zoom",
+   "move": "in",
+   "focus": [
+    0.5,
+    0.3
+   ]
+  },
+  {
+   "from": 34.25,
+   "to": 43.9,
+   "type": "media",
+   "src": "projects/gazi-demo/media/building.jpg",
+   "transition": "glitch",
+   "move": "in",
+   "amount": 0.18,
+   "badge": "הדמיה"
+  },
+  {
+   "from": 43.9,
+   "to": 48.95,
+   "type": "media",
+   "src": "projects/gazi-demo/media/rooftop.jpg",
+   "transition": "blur",
+   "move": "in",
+   "badge": "הדמיה"
+  },
+  {
+   "from": 48.95,
+   "to": 51.2,
+   "type": "media",
+   "src": "projects/gazi-demo/media/taverna.jpg",
+   "transition": "glitch",
+   "move": "out"
+  },
+  {
+   "from": 51.2,
+   "to": 52.0,
+   "type": "map",
+   "src": "projects/gazi-demo/media/map-close.jpg",
+   "width": 1104,
+   "height": 1968,
+   "transition": "glitch",
+   "grade": "none",
+   "camera": [
+    {
+     "t": 0,
+     "x": 0.52,
+     "y": 0.5,
+     "zoom": 1.2
+    },
+    {
+     "t": 0.8,
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.45
+    }
+   ],
+   "pins": [
+    {
+     "name": "Gazi Boulevard",
+     "latin": true,
+     "x": 0.3464,
+     "y": 0.4863,
+     "at": 51.0
+    },
+    {
+     "name": "האקרופוליס",
+     "x": 0.6884,
+     "y": 0.5579,
+     "at": 51.1
+    }
+   ],
+   "route": [
+    {
+     "from": "Gazi Boulevard",
+     "to": "האקרופוליס",
+     "at": 51.2,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "from": 52.0,
+   "to": 54.15,
+   "type": "media",
+   "src": "projects/gazi-demo/media/kitchen.jpg",
+   "transition": "zoom",
+   "move": "in",
+   "badge": "הדמיה"
+  },
+  {
+   "from": 54.15,
+   "to": 55.72,
+   "type": "split",
+   "top": "projects/gazi-demo/media/kitchen.jpg",
+   "bottom": "projects/gazi-demo/media/street.jpg",
+   "transition": "whip"
+  },
+  {
+   "from": 55.72,
+   "to": 57.45,
+   "type": "media",
+   "src": "projects/gazi-demo/media/monastiraki.jpg",
+   "transition": "glitch",
+   "move": "in",
+   "grade": "warm"
+  },
+  {
+   "from": 57.45,
+   "to": 59.95,
+   "type": "media",
+   "src": "projects/gazi-demo/media/building.jpg",
+   "transition": "blur",
+   "move": "out",
+   "grade": "dark",
+   "badge": "הדמיה"
+  },
+  {
+   "from": 59.95,
+   "to": 68.4,
+   "type": "color",
+   "src": "projects/gazi-demo/media/athens-dusk.jpg",
+   "transition": "fade"
+  }
+ ],
+ "overlays": [
+  {
+   "from": 27.8,
+   "to": 30.5,
+   "type": "steps",
+   "steps": [
+    "יסודות",
+    "שלד",
+    "גמר",
+    "מסירה"
+   ],
+   "activeAt": [
+    27.9,
+    28.6,
+    29.3,
+    29.8
+   ]
+  },
+  {
+   "from": 37.3,
+   "to": 43.9,
+   "type": "statRing",
+   "value": 8,
+   "countFrom": 5,
+   "suffix": "%",
+   "segments": 5,
+   "segmentLabels": [
+    "שנה 1",
+    "שנה 2",
+    "שנה 3",
+    "שנה 4",
+    "שנה 5"
+   ],
+   "headline": "תשואה בשנה ל-5 שנים",
+   "footnote": "התשואה לפני מסים",
+   "lines": [
+    {
+     "text": "שכירות אמיתית",
+     "at": 41.32
+    },
+    {
+     "text": "לא תוכנית עסקית",
+     "at": 42.24,
+     "color": "white",
+     "size": 52
+    }
+   ],
+   "dim": 0.6
+  },
+  {
+   "from": 43.95,
+   "to": 48.95,
+   "type": "headline",
+   "y": 0.07,
+   "lines": [
+    {
+     "text": "ומקבלים גם",
+     "at": 43.98,
+     "size": 48
+    },
+    {
+     "text": "שבוע חופשה בשנה",
+     "at": 44.94,
+     "size": 88,
+     "color": "gold"
+    },
+    {
+     "text": "והדירה שלכם רשומה כדירה בטאבו",
+     "at": 46.3,
+     "size": 46,
+     "weight": 800
+    }
+   ]
+  },
+  {
+   "from": 49.78,
+   "to": 51.2,
+   "type": "sticker",
+   "text": "קניתי!",
+   "x": 0.5,
+   "y": 0.18,
+   "rotate": -5,
+   "size": 120
+  },
+  {
+   "from": 51.92,
+   "to": 54.15,
+   "type": "sticker",
+   "text": "חדשה",
+   "sub": "במרכז העיר",
+   "chip": "עולה פחות ↓",
+   "chipAt": 53.74,
+   "x": 0.5,
+   "y": 0.2,
+   "rotate": -3,
+   "size": 110
+  },
+  {
+   "from": 54.52,
+   "to": 55.72,
+   "type": "sticker",
+   "text": "משופצת",
+   "sub": "באתונה",
+   "style": "dark",
+   "x": 0.5,
+   "y": 0.7,
+   "rotate": 2,
+   "size": 96
+  },
+  {
+   "from": 55.74,
+   "to": 57.45,
+   "type": "sticker",
+   "text": "זאת מציאה\nאמיתית!",
+   "style": "cream",
+   "x": 0.5,
+   "y": 0.2,
+   "rotate": -4,
+   "size": 92
+  },
+  {
+   "from": 57.9,
+   "to": 59.95,
+   "type": "soldGrid",
+   "cols": 4,
+   "rows": 6,
+   "sold": [
+    1,
+    6,
+    3,
+    12,
+    9,
+    14,
+    0,
+    19,
+    22,
+    7,
+    16,
+    10,
+    21,
+    4,
+    13
+   ],
+   "startAt": 58.0,
+   "stagger": 0.07
+  },
+  {
+   "from": 59.95,
+   "to": 63.05,
+   "type": "price",
+   "question": "וכמה הון עצמי צריך?",
+   "value": 150000,
+   "prefix": "₪",
+   "valueAt": 61.52,
+   "y": 0.1
+  },
+  {
+   "from": 63.05,
+   "to": 68.4,
+   "type": "commentCta",
+   "title": "רוצים פרטים?",
+   "titleAt": 63.18,
+   "sub": "כתבו לי בתגובות",
+   "subAt": 64.42,
+   "typed": "אתונה",
+   "typeAt": 64.96,
+   "heartAt": 65.85
+  },
+  {
+   "from": 65.9,
+   "to": 68.4,
+   "type": "endCard",
+   "logoTop": "ALMA GROUP",
+   "title": "GAZI BOULEVARD",
+   "subtitle": "ATHENS",
+   "credit": "דור כהן • בשיתוף Alma Group",
+   "disclaimer": "ההדמיות בסרטון להמחשה בלבד. התשואה לפני מסים. אין באמור הצעה או התחייבות",
+   "attribution": "Photos: Unsplash · Imagery: Copernicus Sentinel-2 (2025)"
+  }
+ ],
+ "fx": {
+  "grain": 0.045,
+  "vignette": 0.38
+ }
+}
