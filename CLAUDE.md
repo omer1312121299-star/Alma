@@ -46,6 +46,8 @@ cd engine && node scripts/still.mjs <p> 3 9.5 22 40      # renders out/stills/<p
 python3 -I ../tools/contact_sheet.py out/sheet.jpg out/stills/<p>_*.jpg    # then Read the sheet
 node scripts/render.mjs <p> [--from 30 --to 40] [--out out/x.mp4]          # ~full render 1080x1920
 npx tsc --noEmit                                          # after any code change
+# master is ~300MB (grain). Delivery copy (~35MB, 8 Mbps):
+ffmpeg -i out/<p>.mp4 -c:v libx264 -preset slow -crf 27 -maxrate 8M -bufsize 16M -pix_fmt yuv420p -movflags +faststart -c:a copy out/<p>-share.mp4
 ```
 
 ## How to handle a change request
@@ -63,6 +65,9 @@ npx tsc --noEmit                                          # after any code chang
 - "הדמיה" badge on every rendering/AI visual. End card always has the legal disclaimer
   (renders illustrative, yield before tax, not an offer). Don't invent financial figures — ask.
 - Credit sources: Unsplash photos, "Copernicus Sentinel-2" for maps, CC-BY music in the end card.
+
+## Known issues in gazi-demo
+- ~14.5–15.9s: at zoom 1.38 the Technopolis label slides under the Monastiraki label (tune its `offset`).
 
 ## Known environment limits (cloud container)
 - Reachable: npm, PyPI, huggingface.co (credential injected), the Wan2.2 HF space, Unsplash (MCP), AWS S3
